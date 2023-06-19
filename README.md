@@ -1,1 +1,0 @@
-# FashionMNIST_Accuracy_93.45
